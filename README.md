@@ -1,7 +1,7 @@
 Version original du site, avant changement :
 
-https://github.com/Waleedos/ElwalidELKHABOU_4_21072021/tree/main/beforeChanges/
+https://waleedos.github.io/ElwalidELKHABOU_4_21072021/beforeChanges/
 
 Version optimisée après changement :
 
-https://github.com/Waleedos/ElwalidELKHABOU_4_21072021/tree/main/afterChanges/
+https://waleedos.github.io/ElwalidELKHABOU_4_21072021/afterChanges/
