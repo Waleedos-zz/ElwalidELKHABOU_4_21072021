@@ -1,4 +1,4 @@
-# Done BY EL-WALID EL-KHABOU, Projet N° 4 OC-Developpeur WEB Front-End
+# Done BY EL-WALID EL-KHABOU, Projet N° 4 OC-Developpeur WEB Front-End .
 # Redirect HTTP to HTTPS
 RewriteEngine on
 RewriteCond %{HTTPS} !=on
