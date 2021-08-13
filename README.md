@@ -16,15 +16,13 @@
 ### Livrables
 
   * l’analyse du SEO utilisant le modèle fourni ;
-#
 https://waleedos.github.io/ElwalidELKHABOU_4_21072021/beforeChanges/1-Analyses/Audit-SEO_La-Chouette-Agence_a_choisir.pdf  
 
 ### 
   * le code source complet du site amélioré ;
-#  
 https://waleedos.github.io/ElwalidELKHABOU_4_21072021/afterChanges/  
 
 ###
   * Un rapport d’optimisation comprenant une comparaison complète des résultats
-# 
 https://waleedos.github.io/ElwalidELKHABOU_4_21072021/afterChanges/2-Analyses/Rapport-final.pdf
+
