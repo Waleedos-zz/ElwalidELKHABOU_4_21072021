@@ -1,15 +1,30 @@
-Version Original du site, avant changement :
+# OpenClassrooms-Développeur Web
 
-https://waleedos.github.io/ElwalidELKHABOU_4_21072021/beforeChanges/
+---
 
-Version Optimisée après changement :
+#### Projet 4 : Optimisez un site web existant
 
-https://waleedos.github.io/ElwalidELKHABOU_4_21072021/afterChanges/
+### Compétences évaluées :
 
-Tableau de toutes les erreurs trouvées
+* Écrire un code HTML et CSS maintenable
+* Assurer l'accessibilité d'un site web
+* Optimiser la taille et la vitesse d’un site web
+* Réaliser une recherche des bonnes pratiques en développement web
+* Optimiser le référencement d'un site web
 
-https://waleedos.github.io/ElwalidELKHABOU_4_21072021/beforeChanges/1-Analyses/Audit-SEO_La-Chouette-Agence_a_choisir.pdf
 
-Rapport Final d'Optimisation du site
+### Livrables
 
+  * l’analyse du SEO utilisant le modèle fourni ;
+#
+https://waleedos.github.io/ElwalidELKHABOU_4_21072021/beforeChanges/1-Analyses/Audit-SEO_La-Chouette-Agence_a_choisir.pdf  
+
+### 
+  * le code source complet du site amélioré ;
+#  
+https://waleedos.github.io/ElwalidELKHABOU_4_21072021/afterChanges/  
+
+###
+  * Un rapport d’optimisation comprenant une comparaison complète des résultats
+# 
 https://waleedos.github.io/ElwalidELKHABOU_4_21072021/afterChanges/2-Analyses/Rapport-final.pdf
