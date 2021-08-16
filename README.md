@@ -22,12 +22,13 @@ https://waleedos.github.io/ElwalidELKHABOU_4_21072021/beforeChanges/1-Analyses/A
   * Téléchargement du code source complet du site amélioré ;
 https://github.com/Waleedos/ElwalidELKHABOU_4_21072021/archive/refs/heads/main.zip
 
-### Page du site Après Changement
-https://waleedos.github.io/ElwalidELKHABOU_4_21072021/afterChanges/
-
 ###
   * Un rapport d’optimisation comprenant une comparaison complète des résultats
 https://waleedos.github.io/ElwalidELKHABOU_4_21072021/afterChanges/2-Analyses/Rapport-final.pdf
+
+### 
+  * Page du site Après Changement
+https://waleedos.github.io/ElwalidELKHABOU_4_21072021/afterChanges/
 
 ### Page du site Avant Changement
 https://waleedos.github.io/ElwalidELKHABOU_4_21072021/beforeChanges/
