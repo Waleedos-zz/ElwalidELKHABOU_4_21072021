@@ -26,3 +26,9 @@ https://waleedos.github.io/ElwalidELKHABOU_4_21072021/afterChanges/
   * Un rapport d’optimisation comprenant une comparaison complète des résultats
 https://waleedos.github.io/ElwalidELKHABOU_4_21072021/afterChanges/2-Analyses/Rapport-final.pdf
 
+### Page du site Avant Changement
+https://waleedos.github.io/ElwalidELKHABOU_4_21072021/beforeChanges/
+
+### Page du site Après Changement
+https://waleedos.github.io/ElwalidELKHABOU_4_21072021/afterChanges/
+
