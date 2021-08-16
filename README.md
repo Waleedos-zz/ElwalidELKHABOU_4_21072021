@@ -19,8 +19,11 @@
 https://waleedos.github.io/ElwalidELKHABOU_4_21072021/beforeChanges/1-Analyses/Audit-SEO_La-Chouette-Agence_a_choisir.pdf  
 
 ### 
-  * le code source complet du site amélioré ;
-https://waleedos.github.io/ElwalidELKHABOU_4_21072021/afterChanges/  
+  * Téléchargement du code source complet du site amélioré ;
+https://github.com/Waleedos/ElwalidELKHABOU_4_21072021/archive/refs/heads/main.zip
+
+### Page du site Après Changement
+https://waleedos.github.io/ElwalidELKHABOU_4_21072021/afterChanges/
 
 ###
   * Un rapport d’optimisation comprenant une comparaison complète des résultats
@@ -28,7 +31,4 @@ https://waleedos.github.io/ElwalidELKHABOU_4_21072021/afterChanges/2-Analyses/Ra
 
 ### Page du site Avant Changement
 https://waleedos.github.io/ElwalidELKHABOU_4_21072021/beforeChanges/
-
-### Page du site Après Changement
-https://waleedos.github.io/ElwalidELKHABOU_4_21072021/afterChanges/
 
